@@ -20,7 +20,7 @@ if not anthropic_api_key:
     st.stop()
 
 # Get Place ID (optional)
-place_id = st.text_input("Enter Google Place ID (optional):", "")
+place_id = st.text_input("Enter Google Place ID:", "")
 
 # Initialize components
 fetcher = ReviewFetcher()
