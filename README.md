@@ -68,9 +68,5 @@ Enter the Google Place ID to fetch and analyze reviews.
 - Support multi-location or multi-service classification.
 - Integrate more visualization options and user controls.
 
-## Demo and Write-up
-- Record a 2-4 minute video demo showcasing the tool and AI usage.
-- Prepare a one-page write-up explaining approach, tools, challenges, and future plans.
-
 ---
 This prototype demonstrates a lightweight, AI-powered workflow to help businesses gain actionable insights from their online reviews.
