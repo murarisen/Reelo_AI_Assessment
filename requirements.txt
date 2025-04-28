@@ -1,0 +1,9 @@
+streamlit
+requests
+langchain
+langchain-community
+openai
+langchain-anthropic
+chromadb
+sentence-transformers
+tenacity
